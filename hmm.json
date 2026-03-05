@@ -78,7 +78,7 @@
       "type": "git",
       "dir": null,
       "ref": "master",
-      "url": "https://github.com/nickmain/extension-webview"
+      "url": "https://github.com/openfl/extension-webview"
     }
   ]
 }
