@@ -72,6 +72,13 @@
       "dir": null,
       "ref": "master",
       "url": "https://github.com/Daninnocent/linc_luajit"
+    },
+    {
+      "name": "extension-webview",
+      "type": "git",
+      "dir": null,
+      "ref": "master",
+      "url": "https://github.com/nickmain/extension-webview"
     }
   ]
 }
